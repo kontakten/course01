@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\kursus01\kursus01opgStructEnum\bin\Debug\kursus01opgStructEnum.exe.config
+C:\Users\admin\source\repos\kursus01\kursus01opgStructEnum\bin\Debug\kursus01opgStructEnum.exe
+C:\Users\admin\source\repos\kursus01\kursus01opgStructEnum\bin\Debug\kursus01opgStructEnum.pdb
+C:\Users\admin\source\repos\kursus01\kursus01opgStructEnum\obj\Debug\kursus01opgStructEnum.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\kursus01\kursus01opgStructEnum\obj\Debug\kursus01opgStructEnum.exe
+C:\Users\admin\source\repos\kursus01\kursus01opgStructEnum\obj\Debug\kursus01opgStructEnum.pdb

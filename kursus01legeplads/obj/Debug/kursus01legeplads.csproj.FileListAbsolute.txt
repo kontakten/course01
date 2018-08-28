@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\kursus01\kursus01legeplads\bin\Debug\kursus01legeplads.exe.config
+C:\Users\admin\source\repos\kursus01\kursus01legeplads\bin\Debug\kursus01legeplads.exe
+C:\Users\admin\source\repos\kursus01\kursus01legeplads\bin\Debug\kursus01legeplads.pdb
+C:\Users\admin\source\repos\kursus01\kursus01legeplads\obj\Debug\kursus01legeplads.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\kursus01\kursus01legeplads\obj\Debug\kursus01legeplads.exe
+C:\Users\admin\source\repos\kursus01\kursus01legeplads\obj\Debug\kursus01legeplads.pdb
+C:\Users\admin\source\repos\kursus01\kursus01legeplads\obj\Debug\kursus01legeplads.csprojAssemblyReference.cache

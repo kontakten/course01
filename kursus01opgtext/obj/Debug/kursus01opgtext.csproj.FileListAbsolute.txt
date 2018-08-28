@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\kursus01\kursus01opgtext\bin\Debug\kursus01opgtext.exe.config
+C:\Users\admin\source\repos\kursus01\kursus01opgtext\bin\Debug\kursus01opgtext.exe
+C:\Users\admin\source\repos\kursus01\kursus01opgtext\bin\Debug\kursus01opgtext.pdb
+C:\Users\admin\source\repos\kursus01\kursus01opgtext\obj\Debug\kursus01opgtext.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\kursus01\kursus01opgtext\obj\Debug\kursus01opgtext.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\kursus01\kursus01opgtext\obj\Debug\kursus01opgtext.exe
+C:\Users\admin\source\repos\kursus01\kursus01opgtext\obj\Debug\kursus01opgtext.pdb
